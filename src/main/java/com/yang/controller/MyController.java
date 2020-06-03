@@ -9,5 +9,6 @@ public class MyController {
     public void test1(){
         System.out.println("这是Git的第二次提交");
         System.out.println("这是Gitee的第三次提交");
+        System.out.println("明天比今天厉害一点点");
     }
 }
